@@ -8,6 +8,8 @@ Settings
 
 A site specific sync group name will be created, and synchronization will be enabled.
 
+Note - It is required to complete the following task on only dns.sitea
+
 Navigate to: **DNS  ››  Settings : GSLB : General**
 
 Configure the global settings for GSLB according to the following table:
